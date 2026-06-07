@@ -1,0 +1,16 @@
+# Секретні змінні (КРИТИЧНО ВАЖЛИВО)
+.env
+
+# Залежності
+node_modules
+/dist
+
+# Логи та тимчасові файли
+npm-debug.log
+yarn-error.log
+docker-compose.override.yml
+.DS_Store
+
+# IDE
+.vscode
+.idea
